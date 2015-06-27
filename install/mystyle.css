@@ -1,0 +1,36 @@
+.noborder
+{
+  background-color : #ffffff;
+  border: 0;
+}
+
+.normal {
+  font-family : Tahoma, verdana, arial, helvetica, sans-serif;
+  color : #000000;
+  font-size : 12px;
+  background-color : #eeeeee;
+  border-color : #000000;
+  border-width:1;
+}
+.newsletter {
+  font-family : Tahoma, verdana, arial, helvetica, sans-serif;
+  color : #000000;
+  font-size : 12px;
+  background-color : #ffffff;
+  border-color : #000000;
+  border-width:1;
+}
+
+.button {
+  color : #EEEEEE;
+  font-size : 10px;
+  background-color : #585FA7;
+  font-weight:bold;
+}
+
+.button_red {
+  color : #FFCC00;
+  font-size : 10px;
+  background-color : #B52C2E;
+  font-weight:bold;
+}
